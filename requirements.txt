@@ -1,4 +1,0 @@
-djangogirls/requirements.txt
-
-	Django~=2.0.6
-
